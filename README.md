@@ -8,6 +8,8 @@
 
 Bem-vindo a **Jornada de Dados**
 
+> Projeto iniciado em 26 de Junho de 2025, focado em big data e análise de dados.
+
 ---
 
 ## Introdução
